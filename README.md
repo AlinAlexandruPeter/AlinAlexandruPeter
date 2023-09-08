@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlinAlexandruPeter
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Front End Developing (React.js)
+- 👀 I’m interested in God, coding, animes...
+- 🌱 I’m currently learning Front End Developing (Styled Components)
 - 💞️ I’m looking to collaborate on Front-End Development
 - 📫 How to reach me: peteralexandru00@gmail.com
 
